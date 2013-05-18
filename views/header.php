@@ -37,6 +37,7 @@
 				<div class='navbar-inner nav-collapse' style="height: auto;">
 					<ul class="nav">
 						<li class="<?php echo $data['tabHome'] ?>"><a href="<?php echo siteURL()?>">Home</a></li>
+						<li class="<?php echo $data['tabProjects'] ?>"><a href="<?php echo siteURL('projects')?>">Projects</a></li>
 						<li class="<?php echo $data['tabApplication'] ?>"><a href="<?php echo siteURL("dbinit")?>">DBINIT and Appl. Form</a></li>
 					</ul>
 				</div> <!-- end navbar-collapse -->
