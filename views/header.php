@@ -67,6 +67,5 @@
 				//end breadcrumbs
 				
 			?>
-	<p>derp</p>
 <!-- begin page specific content -->
 
